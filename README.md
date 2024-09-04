@@ -1,24 +1,16 @@
-# Grid and flexbox, living in harmony!
+# Berlin - nature and concrete || grid and flexbox styling
 
-**Rules**
+## Exercise Course-Module 1 - UserInterfaceBasics (UIB) - HTML/CSS
 
-- Don't edit the HTML --> CSS changes only
-- Don't edit the first 20 lines of CSS
+### Recreated the reference image below, using grid and flexbox styling
 
-**Instructions**
+Created a grid container with four columns, evenly spaced;created a flexbox out of all of the grid items using a vertical layout; Centered all of the flexbox contents vertically and horizontally; Gave the grid items a semi-transparent, fixed background and added other styling until the page matched the example screenshot below
 
-1. Make the `.container` element into a grid element
-2. Make the grid have four columns, evenly spaced
-3. Add 0.5em of space between the grid items
-4. Create a flexbox out of all of the grid items using a vertical layout
-5. Center all of the flexbox contents vertically and horizontally
-6. Make the text color of the grid items `#eee` and give them a semi-transparent background
-7. Add a box-shadow hover effect to the grid items, so that they seem like something happens when you click on them
-8. Add other styling until your page matches the example screenshot below
+28.09.22
 
 ![example](example.png)
 
 ## Notices
 
-- BG1 is from https://unsplash.com/photos/HM7vrtxeFDs
-- BG2 is from https://unsplash.com/photos/1L71sPT5XKc
+- BG1 is by Vitor Fontes from Unsplash: https://unsplash.com/photos/gray-concrete-dinosaur-statue-lying-on-green-grass-near-red-ferris-wheel-w-bvhqRJFe0
+- BG2 is by Yeshi Kangrang from Unsplash: https://unsplash.com/photos/person-sitting-on-top-of-the-building-PM_VwL2ypes
