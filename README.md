@@ -2,7 +2,7 @@
 
 ## Exercise Course-Module 1 - UserInterfaceBasics (UIB) - HTML/CSS
 
-### Recreated the reference image below, using grid and flexbox styling
+### Recreated the reference image below, used grid and flex box styling
 
 Created a grid container with four columns, evenly spaced;created a flexbox out of all of the grid items using a vertical layout; Centered all of the flexbox contents vertically and horizontally; Gave the grid items a semi-transparent, fixed background and added other styling until the page matched the example screenshot below
 
