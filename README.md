@@ -6,7 +6,7 @@
 
 created at 28.09.22;
 
-Created a grid container with four columns, evenly spaced;created a flexbox out of all of the grid items using a vertical layout; Centered all of the flexbox contents vertically and horizontally; Gave the grid items a semi-transparent, fixed background and added other styling until the page matched the mockup below
+Created a grid container with four columns, evenly spaced;created a flexbox out of all of the grid items using a vertical layout; Centered all of the flexbox contents vertically and horizontally; Gave the grid items a semi-transparent, fixed background and added special scrolling behavior until the page matched the mockup below
 
 ### My desktop version:
 
